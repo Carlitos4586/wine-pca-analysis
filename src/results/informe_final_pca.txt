@@ -1,0 +1,43 @@
+
+ANÁLISIS DE COMPONENTES PRINCIPALES (PCA) - DATASET DE VINOS
+===========================================================
+
+DATOS ANALIZADOS:
+• Dataset: UCI Wine Dataset
+• Muestras: 178 vinos
+• Variables originales: 13 características químicas
+• Clases: 3 tipos de vino (Cultivar 1, 2, 3)
+
+TRANSFORMACIÓN REALIZADA:
+• Estandarización: Media = 0, Desviación estándar = 1
+• Dimensionalidad: 13D → 2D
+• Información conservada: 55.4%
+• Información perdida: 44.6%
+
+COMPONENTES PRINCIPALES:
+• PC1: 36.2% de la varianza
+• PC2: 19.2% de la varianza
+• PC3: 11.1% de la varianza
+
+RESULTADOS:
+✅ Separación exitosa de las 3 clases de vino en 2D
+✅ Visualización clara de patrones antes invisibles
+✅ Reducción significativa de complejidad manteniendo información
+✅ Aplicación exitosa de conceptos fundamentales de álgebra lineal
+
+CONCEPTOS DE ÁLGEBRA LINEAL APLICADOS:
+1. Matrices y vectores para representación de datos
+2. Transformaciones lineales para estandarización
+3. Producto matricial para matriz de covarianza
+4. Eigenvalues y eigenvectors para encontrar direcciones principales
+5. Cambio de base para proyección en nuevos ejes
+6. Reducción de dimensionalidad preservando máxima información
+
+APLICACIONES EN IA:
+• Computer Vision: Eigenfaces, compresión de imágenes
+• Machine Learning: Preprocesamiento, reducción de overfitting
+• NLP: Word embeddings, análisis de sentimientos
+• Sistemas de recomendación: Factorización matricial
+• Deep Learning: Autoencoders, inicialización
+• Big Data: Análisis eficiente de datasets masivos
+    
