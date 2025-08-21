@@ -1,5 +1,7 @@
 # 🍷 Análisis PCA de Vinos: Álgebra Lineal para IA
 
+*url git: https://github.com/Carlitos4586/wine-pca-analysis/tree/main*
+
 ## 📋 Descripción
 
 Implementación educativa de **Análisis de Componentes Principales (PCA)** aplicando conceptos fundamentales de álgebra lineal para demostrar su uso en Inteligencia Artificial. Reducimos 13 variables químicas de vinos a 2 componentes principales manteniendo ~75% de la información.
@@ -99,7 +101,7 @@ wine-pca-analysis/
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**  
+**Carlos A. Bermudez I.**  
 Curso: Matemáticas para IA - Álgebra Lineal  
 Fecha: Agosto 2025
 
